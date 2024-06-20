@@ -1,1 +1,6 @@
 public 
+{
+    public static void{
+        
+    }
+}
